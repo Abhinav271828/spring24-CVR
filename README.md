@@ -4,8 +4,10 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
 # Course Outline
 
 # Lecture Contents
-- Lecture 1 (04 Jan, Thu)
+* Lecture 1 (04 Jan, Thu)
     - Narrative Arc of the Course
+* Lecture 2 (08 Jan, Mon)
+    - 1857 and Its Aftermath
 
 # Grading Policy
 * Midsem: 20%
