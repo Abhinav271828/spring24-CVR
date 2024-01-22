@@ -12,6 +12,8 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
     - 1857 and Its Aftermath (contd.)
 * Lecture 4 (18 Jan, Thu)
     - The Anti-Colonial Call for Freedom
+* Lecture 5 (22 Jan, Mon)
+    - The Muslim League, Gandhi, War, and the INC
 
 # Grading Policy
 * Midsem: 20%
