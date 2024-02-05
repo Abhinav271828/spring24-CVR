@@ -15,6 +15,10 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
 * Lecture 5 (22 Jan, Mon)
     - The Muslim League, Gandhi, War, and the INC
 * Lecture 6 (25 Jan, Thu)
+    - The Interwar Period
+* Lecture 7 (1 Feb, Thu)
+    - [MISSED]
+* Lecture 8 (05 Feb, Mon)
     - 
 
 # Grading Policy
