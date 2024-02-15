@@ -19,7 +19,9 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
 * Lecture 7 (1 Feb, Thu)
     - [MISSED]
 * Lecture 8 (05 Feb, Mon)
-    - 
+    - The Interwar Period
+* Lecture 9 (15 Feb, Thu)
+    - The 1937 Election and WWII
 
 # Grading Policy
 * Midsem: 20%
