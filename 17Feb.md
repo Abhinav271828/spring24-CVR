@@ -2,7 +2,7 @@
 title: Critical Viewing and Reading
 subtitle: |
           | Spring 2024, IIIT Hyderabad
-          | 17 February, Thursday (Lecture 10)
+          | 17 February, Saturday (Lecture 10)
 author: Taught by Prof. Sushmita Banerji
 ---
 

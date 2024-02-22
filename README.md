@@ -23,7 +23,9 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
 * Lecture 9 (15 Feb, Thu)
     - The 1937 Election and WWII
 * Lecture 10 (17 Feb, Sat)
-    - The 1937 Election and WWII (contd.)
+    - The Second World War (contd.)
+* Lecture 11 (22 Feb, Thu)
+    - 
 
 # Grading Policy
 * Midsem: 20%
