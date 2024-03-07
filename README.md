@@ -25,6 +25,9 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
 * Lecture 10 (17 Feb, Sat)
     - The Second World War (contd.)
 * Lecture 11 (22 Feb, Thu)
+    - Partition
+    - Cultural Imaginaries and Public Texts
+* Lecture 12 (07 Mar, Thu)
     - 
 
 # Grading Policy
