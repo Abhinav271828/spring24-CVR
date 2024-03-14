@@ -31,6 +31,8 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
     - Immigrants and Refugees
 * Lecture 13 (13 Mar, Wed)
     - Borders and Boundaries
+* Lecture 14 (14 Mar, Thu)
+    - The Partitions of Memory
 
 # Grading Policy
 * Midsem: 20%
