@@ -33,6 +33,9 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
     - Borders and Boundaries
 * Lecture 14 (14 Mar, Thu)
     - The Partitions of Memory
+* Lecture 15 (28 Mar, Thu)
+    - Saadat Hasan Manto
+        - Toba Tek Singh
 
 # Grading Policy
 * Midsem: 20%
