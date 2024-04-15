@@ -36,10 +36,19 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
 * Lecture 15 (28 Mar, Thu)
     - Saadat Hasan Manto
         - Toba Tek Singh
+* Lecture 16 (04 Apr, Thu)
+    - Saadat Hasan Manto (contd.)
+        - Khol Do
+* Lecture 17 (06 Apr, Sat) 
+    - Mammo
+* Lecture 18 (08 Apr, Mon)
+    - The Mirror
+* Lecture 19 (15 Apr, Mon)
+    - Kafer
 
 # Grading Policy
-* Midsem: 20%
 * Quiz-1: 10%
+* Midsem: 20%
 * Assignment-1: 20%
 * Assignment-2: 20%
 * Endsem: 30%
