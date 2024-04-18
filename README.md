@@ -45,6 +45,8 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
     - The Mirror
 * Lecture 19 (15 Apr, Mon)
     - Kafer
+* Lecture 20 (18 Apr, Mon)
+    - 
 
 # Grading Policy
 * Quiz-1: 10%
