@@ -45,8 +45,11 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
     - The Mirror
 * Lecture 19 (15 Apr, Mon)
     - Kafer
-* Lecture 20 (18 Apr, Mon)
-    - 
+* Lecture 20 (18 Apr, Thu)
+    - Raavi ke Us Paar
+    - Epar Ganga Opar Ganga
+* Lecture 21 (22 Apr, Mon)
+    - Udbastu
 
 # Grading Policy
 * Quiz-1: 10%
