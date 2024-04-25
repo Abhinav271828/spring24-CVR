@@ -50,6 +50,8 @@ Notes and resources for the Critical Viewing and Reading course at IIIT Hyderaba
     - Epar Ganga Opar Ganga
 * Lecture 21 (22 Apr, Mon)
     - Udbastu
+* Lecture 22 (25 Apr, Thu)
+    - 
 
 # Grading Policy
 * Quiz-1: 10%
